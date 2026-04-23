@@ -11,7 +11,12 @@ function Home() {
         <h2>About Me</h2>
         <p>
           I am a student currently pursuing a Bachelor of Technology in
-          Artificial Intelligence at Mahindra École Centrale.
+          Artificial Intelligence at Mahindra École Centrale. With a strong
+          foundation in machine learning and AI development, I have engineered
+          solutions ranging from predictive HR analytics to agentic AI tools for
+          code simplification. I am passionate about transforming complex data
+          into actionable insights and creating interactive platforms that
+          enhance research and discovery.
         </p>
       </section>
 
@@ -19,7 +24,12 @@ function Home() {
         <h2>Research Interests</h2>
         <p>
           Deeply engaged in Computer Vision research, specifically focusing on
-          Vision-Language Models and architectures like U-Net and SegNet.
+          Vision-Language Models and architectures like U-Net and SegNet. I am
+          currently conducting in-depth research to develop novel,
+          high-performance image segmentation models optimized on large-scale
+          datasets using high-performance computing (HPC) environments.
+          Additionally, my interests extend to Agentic AI frameworks and
+          leveraging Large Language Models (LLMs) for complex reasoning tasks.
         </p>
       </section>
 
