@@ -4,11 +4,6 @@ function Home() {
   return (
     <div className="page-container fade-in">
       <div className="profile-header">
-        <img
-          src="https://via.placeholder.com/150"
-          alt="Profile"
-          className="profile-pic"
-        />
         <h1>Tharun Varma Dendukuri</h1>
       </div>
 
